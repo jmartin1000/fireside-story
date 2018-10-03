@@ -28,14 +28,16 @@ h6 {
 }
 
 .backstory {
-    width: 75%;
-    background: #fff;
+    width: 80%;
+    background:url(flashback.png);
+    background-repeat: no-repeat;
+    background-size: cover;
     margin: 0 auto;
-    padding: 25px;
-    border-radius: 20px;
+    padding: 100px;
+    border-radius: 40px;
 }
 
 .backstory p {
-    color: dimgray;
+    color:red;
     font-size: 18px;
 }
