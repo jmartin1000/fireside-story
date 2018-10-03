@@ -5,3 +5,11 @@ body {
     font-size: 30px;
     padding: 30px;
 }
+
+.video {
+    width: fit-content;
+    height: auto;
+    margin: 0 auto;
+    background: #fff;
+    padding: 10px;
+}
