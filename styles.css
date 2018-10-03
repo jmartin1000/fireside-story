@@ -6,10 +6,36 @@ body {
     padding: 30px;
 }
 
+h6 {
+    color: dimgray;
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 20px;
+    line-height: 22px;
+}
+
 .video {
     width: fit-content;
     height: auto;
     margin: 0 auto;
     background: #fff;
     padding: 10px;
+}
+
+.video p {
+    color: dimgray;
+    font-style: italic;
+    font-size: 14px;
+}
+
+.backstory {
+    width: 75%;
+    background: #fff;
+    margin: 0 auto;
+    padding: 25px;
+    border-radius: 20px;
+}
+
+.backstory p {
+    color: dimgray;
+    font-size: 18px;
 }
